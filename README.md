@@ -1,4 +1,8 @@
 # 42 GetNextLine
+<p float='left' align='center'>
+<img src="https://user-images.githubusercontent.com/47778244/231216804-a80ff118-3e1e-4af2-8962-b60f378cd9cd.png" width='20%'>
+<img src="https://user-images.githubusercontent.com/47778244/231217008-e0235f9b-7b7a-43e1-9415-852fa6bebaab.png" width='20%'>
+</p>
 
 ## Table of Contents
 
